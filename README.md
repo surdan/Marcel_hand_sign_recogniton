@@ -1,0 +1,2 @@
+# Marcel_hand_sign_recogniton
+基于tensorflow对Marcel静态手势库进行手势识别
